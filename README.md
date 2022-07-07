@@ -6,7 +6,14 @@ I will be this Resume webpage during the course of my HyperionDev Bootcamp. Chec
 
 ## Contents
 This repository consists of:
-1. An index.html
+1. An index.html file.
 2. A javascript file.
 3. A css file.
-4. A README.md
+4. A jpeg (my profile picture).
+5. A README.md
+
+## Installation & Usage
+This repository is not intended to be installed or used by others.
+
+###### Credits
+Thank you to everyone at https://www.hyperiondev.com/
